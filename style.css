@@ -1,8 +1,12 @@
 h1{
      text-align:center;
-     background: rgb(182, 55, 182);
+     background: rgb(192, 175, 197)
 }
-
 p{
-    text-align: center;
+
+text-align: center;
+    background:rgb(189, 179, 192)
+}
+boody{
+    background-color: rgb(175, 143, 173);
 }
