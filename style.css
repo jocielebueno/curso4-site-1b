@@ -1,6 +1,7 @@
 body{
     background-color: rgb(177, 96, 180);
 }
+
 #modas{
     width: 100%;
     height: 300px; 
@@ -15,7 +16,4 @@ p{
 
 text-align: center;
     background:rgb(177, 148, 185)
-}
-boody{
-    background-color: rgb(167, 85, 192);
 }
