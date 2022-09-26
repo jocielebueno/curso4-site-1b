@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(206, 60, 223);
+    background-color: rgb(170, 136, 173);
 }
 
-#modas{
+#loja{
     width: 100%;
     height: 300px; 
 }
@@ -10,13 +10,13 @@ body{
 
 h1{    
      text-align:center;
-     background: rgb(192, 175, 197)
+     background: rgb(216, 143, 238)
 }
 
 p{
 
 text-align: center;
-    background:rgb(177, 148, 185)
+    background:rgb(232, 173, 248)
 }
 
 
