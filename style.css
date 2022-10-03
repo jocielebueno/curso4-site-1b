@@ -35,3 +35,10 @@ h2{
 .benificios{
     background-color: aquamarine;
 }
+
+ul{
+display: inline-block;
+}
+#carro2{
+    width:50% ;
+}
