@@ -38,9 +38,8 @@ h2{
 
 ul{
     display: inline-block;
-
-}
-
-#carro2{
+    vertical-align: top;
+{
+   #modas2{
     width:50% ;
 }
