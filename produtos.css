@@ -1,10 +1,16 @@
 header{
+    
     background-color: rgb(193, 240, 232);
+
 }
 #logo{
+
     width: 250px;
+
 }
 nav li{
-    display: inline;
+
+    display: inline-block;
     margin: 10px;
+
 }
