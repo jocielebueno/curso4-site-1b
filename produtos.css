@@ -17,11 +17,12 @@ nav li{
     display: inline;
     margin: 10px;
 }
+
 nav a{
 
     text-transform: uppercase;
     color: rgb(209, 180, 205);
     font-weight: bold;
-    font: size 20px; 
+    font-size: 20px; 
     text-decoration-line: none;
 }
