@@ -1,5 +1,9 @@
 header{  
     background-color: rgb(193, 240, 232);
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    
 }
 h1{
     display: inline;
