@@ -1,9 +1,6 @@
 header{  
     background-color: rgb(237, 207, 240);
-       padding: 20px 09;
-
-
-
+       padding: 20px;
 }
 .caixa-nav{
     width: 940px;
@@ -11,7 +8,9 @@ header{
     margin: 0 auto;
 }
 
-
+#loja {
+    width: 300px;
+}
 
 nav li{
     display: inline;
@@ -19,8 +18,6 @@ nav li{
     right: 30px; 
     top: 20px;
 }
-
-
 
 nav a{
     text-transform: uppercase;
