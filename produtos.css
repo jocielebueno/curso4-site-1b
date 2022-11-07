@@ -1,17 +1,11 @@
 header{  
-<<<<<<< HEAD
     background-color: rgb(237, 207, 240);
        
 }
 .caixa-nav{
+    width: 940px;
     position: relative;
     margin: 0 auto;
-=======
-    background-color: rgb(193, 240, 232);
-    
->>>>>>> fd5120d9d8c2598bae64c789563bb1169f154288
-}
-.caixa-nav{
 }
 
 nav li{
