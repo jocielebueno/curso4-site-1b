@@ -1,21 +1,8 @@
 header{  
     background-color: rgb(193, 240, 232);
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
     
 }
-h1{
-    display: inline;
-}
-
-#loja{
-    width: 250px;
-}
-
-nav{
-    display: inline-block;
-    position: absolute;
+.caixa-nav{
 }
 
 nav li{
