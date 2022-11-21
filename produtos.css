@@ -27,7 +27,7 @@ nav a{
     text-decoration-line: none;
 }
 .produtos{
-   width: 200px;
+   width: 1200px;
    margin: 0 auto;
 }
 
@@ -37,7 +37,7 @@ nav a{
 }
 
 .item{
-   width: 350px;
+   width: 350;
    height: 260px;
 }
 
